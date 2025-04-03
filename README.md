@@ -1,12 +1,15 @@
-# React + Vite
+# 💀 Spin the Wheel of Death! 🎡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! Ever wondered how you might kick the bucket? This fun little web app spins up some morbid predictions based on Singapore's death stats. But don't worry - we'll also hook you up with some food tips to hopefully dodge that fate! 
 
-Currently, two official plugins are available:
+## What's Cool About It? 🎪
+- Spin a flashy carnival wheel (with legit death probabilities, because we're nerdy like that)
+- Pretty colors and stuff that moves around
+- Get some actually useful food advice when you land on your doom
+- Works great on your phone or computer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Where'd We Get The Numbers? 📊
+We grabbed the stats from the [Singapore Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/principal-causes-of-death). Keeping it real!
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Wanna Try It? 🎯
+Give it a spin here: [Spin the Wheel of Death](https://dri-water.github.io/spinthewheel/)
