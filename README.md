@@ -1,3 +1,9 @@
+Made for NUS: UTS2719
+Diet, Public Health and Sustainability
+Residential College 4 • Residential College • 4 Units
+
+Semester 2 - 2024/2025
+
 # 💀 Spin the Wheel of Death! 🎡
 
 Hey there! Ever wondered how you might kick the bucket? This fun little web app spins up some morbid predictions based on Singapore's death stats. But don't worry - we'll also hook you up with some food tips to hopefully dodge that fate! 
